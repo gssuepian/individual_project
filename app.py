@@ -20,7 +20,8 @@ from sklearn.metrics import ConfusionMatrixDisplay
 #   - Git Hub Repo: https://github.com/Sven-Bo/personal-website-streamlit/tree/master     #
 #       - Importing lottie files                                                          #
 #       - set page configuration used to format tab subheader                             #
-#       - Using local CSS to hide streamlit branding                                                                                 #
+#       - Using local CSS to hide streamlit branding                                      #
+#       - .streamlit folder with config.toml file for theme                               #
 #                                                                                         #
 # ======================================================================================= #
 
