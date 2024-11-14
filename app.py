@@ -11,7 +11,7 @@ from sklearn.metrics import ConfusionMatrixDisplay
 
 # ======================================================================================= #
 #                                                                                         #
-#   Additional resoureces used for this application:                                      #
+#   Additional resources used for this application:                                      #
 #   ------------------------------------------------                                      #
 #                                                                                         #
 #   For this project, in order to enhance the web application, I did some additional      #
@@ -29,7 +29,7 @@ from sklearn.metrics import ConfusionMatrixDisplay
 # DESIGN AND FORMATTING ELEMENTS
 # ===========================================================
 
-# Setting display of application tab
+# Setting display of application browser tab
 st.set_page_config(page_title="Diabetes Prediction Application", page_icon=":medical_symbol:")
 
 # Use local CSS
