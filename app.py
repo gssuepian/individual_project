@@ -420,6 +420,19 @@ elif page == "About the Model":
 
     st.markdown('---')
 
+    # Feature Importance
+    # ------------------
+    st.subheader("Feature Importance")
+    col1, col2, col3 = st.columns([2,5,2])
+    with col1:
+        st.empty()
+    with col2:
+        st.image("images/featureimportance.png")
+    with col3:
+        st.empty()
+
+    st.markdown('---')
+
     # Model Evaluation
     # ----------------
 
